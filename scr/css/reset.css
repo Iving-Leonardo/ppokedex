@@ -1,0 +1,9 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;    /* mantém o dimensionamento do paddin e margin nos próprios elemento */
+}
+
+ul { 
+    list-style-type: none;
+}
